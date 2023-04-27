@@ -3,3 +3,4 @@ sunny dayNEW LINE EXERCISE
 nBYEBYE
 nHello
 -c APPLE
+-c ORANGE
