@@ -3,3 +3,4 @@ AUDIENCE
 
 This course is for anyone who wants to learn Git. 
 ================================================
+bugfix-photo
